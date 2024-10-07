@@ -57,4 +57,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Seaborn Documentation](https://seaborn.pydata.org/)
 
 ## Contact
-For questions or feedback, please reach out to [your.email@example.com](mailto:wishnukv2349@gmail.com).
+For questions or feedback, please reach out to [wishnukv2349@gmail.com](mailto:wishnukv2349@gmail.com).
