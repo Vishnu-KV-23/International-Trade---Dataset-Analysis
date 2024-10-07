@@ -24,4 +24,37 @@ To set up this project, follow these steps:
    git clone https://github.com/yourusername/data-analysis-project.git
    cd data-analysis-project
 
+2. **Create a virtual environment (optional but recommended)**:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   ```
 
+3. **Install the required packages**:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+   ## Usage
+1. **Prepare Your Data**: Ensure your dataset is formatted correctly and placed in the appropriate directory.
+
+2. **Run the Analysis**: Execute the Jupyter Notebook or Python script to perform the analysis and generate visualizations.
+   ```bash
+   jupyter notebook EDA.ipynb
+   ```
+
+3. **View Results**: Analyze the output and visualizations generated in the notebook.
+
+
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+- [Pandas Documentation](https://pandas.pydata.org/docs/)
+- [NumPy Documentation](https://numpy.org/doc/stable/)
+- [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
+- [Seaborn Documentation](https://seaborn.pydata.org/)
+
+## Contact
+For questions or feedback, please reach out to [your.email@example.com](mailto:wishnukv2349@gmail.com).
